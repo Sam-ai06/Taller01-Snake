@@ -1,8 +1,11 @@
 integrantes:
--Samuel Villagomez
--Mathias Giler
--Niurka Roca
--Anahí Quezada
+<ul>
+  <li></li>-Samuel Villagomez
+  <li>-Mathias Giler</li>
+  <li>-Niurka Roca</li>
+  <li>-Anahí Quezada</li>
+</ul>
+
 <img width="581" height="333" alt="Captura de pantalla 2025-10-01 134943" src="https://github.com/user-attachments/assets/55fc105d-3160-4103-8935-333ff1d217d7" />
 <img width="1365" height="767" alt="Captura de pantalla 2025-10-01 135115" src="https://github.com/user-attachments/assets/02d98940-aba0-4b54-9c6e-c5e6aec9df96" />
 <img width="567" height="318" alt="CapturaIntegrante1-Solucion" src="https://github.com/user-attachments/assets/13428633-d3c9-4c88-a94f-45c5afd3823a" />
