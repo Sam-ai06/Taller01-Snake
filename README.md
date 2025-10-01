@@ -1,6 +1,6 @@
 integrantes:
 <ul>
-  <li></li>-Samuel Villagomez
+  <li>-Samuel Villagomez</li>
   <li>-Mathias Giler</li>
   <li>-Niurka Roca</li>
   <li>-Anahí Quezada</li>
