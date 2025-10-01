@@ -6,12 +6,10 @@
   <li>-Anahí Quezada</li>
 </ul>
 
-![1](<img width="581" height="333" alt="Captura de pantalla 2025-10-01 134943" src="https://github.com/user-attachments/assets/55fc105d-3160-4103-8935-333ff1d217d7" />)
-![2](<img width="1365" height="767" alt="Captura de pantalla 2025-10-01 135115" src="https://github.com/user-attachments/assets/02d98940-aba0-4b54-9c6e-c5e6aec9df96" />)
-![3](<img width="567" height="318" alt="CapturaIntegrante1-Solucion" src="https://github.com/user-attachments/assets/13428633-d3c9-4c88-a94f-45c5afd3823a" />)
-![4](<img width="567" height="318" alt="CapturaIntegrante1-ErrorConflicto" src="https://github.com/user-attachments/assets/fd36ffa7-1c17-4d61-ba92-716a19344eac" />)
-![5](<img width="1164" height="683" alt="Captura de pantalla 2025-10-01 140157" src="https://github.com/user-attachments/assets/0af6c5a3-b6fa-4ebe-9da0-ddd79df3968e" />)
-![6](<img width="539" height="425" alt="Captura de pantalla 2025-10-01 135743" src="https://github.com/user-attachments/assets/e18e61b3-010d-49ca-b871-c7b478420233" />)
-![7](<img width="1025" height="525" alt="Captura de pantalla 2025-10-01 135516" src="https://github.com/user-attachments/assets/3723bd17-6598-487c-97a3-d1ec33d61f63" />)
-![8](<img width="682" height="315" alt="Captura de pantalla 2025-10-01 135339" src="https://github.com/user-attachments/assets/4a94aaed-8582-43f7-b208-27b2632d5972" />)
-![9](<img width="1365" height="767" alt="Captura de pantalla 2025-10-01 134108" src="https://github.com/user-attachments/assets/a229e974-c671-4fe1-83bb-ab774773cdee" />)
+![integrante 1](https://github.com/user-attachments/assets/99b62579-a07a-4622-bb2f-0d23d648129c)
+![integrante 2](https://github.com/user-attachments/assets/437b0350-a236-4f42-8fa1-814ec8f841f8)
+![integrante 3](https://github.com/user-attachments/assets/e0e851ee-3a5b-4242-80f5-bd917c18ce25)
+![sol integrante 1](https://github.com/user-attachments/assets/5e6b1bd6-759e-43be-8010-278e044dcfc8)
+![sol integrante 2](https://github.com/user-attachments/assets/aab7d82e-1a58-4a2d-b51b-5fa76173e379)
+![sol integrante 3](https://github.com/user-attachments/assets/7b8a9d13-1f46-490e-b3ed-ac048c5a45b0)
+![sol lider](https://github.com/user-attachments/assets/69ed0475-4fc2-478e-9732-9e63a965e780)
